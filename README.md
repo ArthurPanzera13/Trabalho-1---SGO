@@ -18,11 +18,16 @@ A arquitetura segue o padrão **em camadas (MVC + Service + Repository)**, com o
 
 ---
 
-## 👥 Histórias de Usuário
+# 👥 Histórias de Usuário — Sistema de Gestão das Olimpíadas (SGO)
+
+As histórias de usuário abaixo foram elaboradas com base na documentação oficial do trabalho **Sistema de Gestão das Olimpíadas (SGO)**, considerando as regras de negócio e os requisitos descritos no enunciado do professor João Paulo Aramuni.  
+O sistema tem como objetivo representar, por meio de modelagem UML, os principais processos de gerenciamento das Olimpíadas — **sem implementação de código**.
+
+---
 
 ### **US01 – Cadastrar Competição**
 **Como** organizador das Olimpíadas,  
-**quero** cadastrar novas competições informando nome da modalidade, data, horário, local e atletas participantes,  
+**quero** cadastrar novas competições informando modalidade, data, horário, local e atletas participantes,  
 **para** que o sistema registre oficialmente os eventos e permita o controle das inscrições e resultados.
 
 ---
@@ -30,28 +35,63 @@ A arquitetura segue o padrão **em camadas (MVC + Service + Repository)**, com o
 ### **US02 – Inscrever Atleta**
 **Como** atleta representante de um país,  
 **quero** me inscrever em uma ou mais competições específicas,  
-**para** poder competir nas modalidades em que estou qualificado e representar meu país nas provas.
+**para** poder competir nas modalidades em que estou qualificado e representar meu país.
 
 ---
 
 ### **US03 – Alocar Local de Competição**
 **Como** administrador do sistema,  
-**quero** alocar locais para as competições garantindo que não haja conflitos de horários,  
-**para** assegurar que cada evento ocorra em um espaço disponível e adequado, evitando sobreposições.
+**quero** alocar locais para as competições de modo que não ocorram conflitos de horário,  
+**para** garantir que cada evento aconteça em um espaço disponível e adequado.
 
 ---
 
 ### **US04 – Registrar Resultados**
 **Como** juiz ou organizador de competição,  
-**quero** registrar os resultados das provas informando o vencedor e os classificados em segundo e terceiro lugar,  
-**para** manter o histórico das competições e gerar relatórios de desempenho.
+**quero** registrar o resultado das provas, informando os três primeiros colocados,  
+**para** atualizar o sistema com as medalhas conquistadas por cada atleta e país.
 
 ---
 
 ### **US05 – Gerar Relatório de Medalhas**
 **Como** comitê organizador,  
-**quero** gerar um relatório consolidado de medalhas por país (ouro, prata e bronze),  
+**quero** gerar relatórios consolidados de medalhas por país,  
 **para** acompanhar o desempenho geral das nações e divulgar o quadro oficial das Olimpíadas.
+
+---
+
+### **US06 – Consultar Competições por Modalidade**
+**Como** visitante ou jornalista,  
+**quero** consultar as competições filtrando por modalidade e data,  
+**para** visualizar as informações dos eventos de interesse e planejar minha cobertura ou participação.
+
+---
+
+### **US07 – Consultar Atletas por País**
+**Como** membro do comitê ou organizador,  
+**quero** visualizar os atletas cadastrados de cada país,  
+**para** ter um panorama geral das delegações participantes e suas respectivas inscrições.
+
+---
+
+### **US08 – Atualizar Dados de Competição**
+**Como** organizador,  
+**quero** editar informações de uma competição antes de sua realização (como horário, local ou participantes),  
+**para** corrigir imprevistos e manter as informações atualizadas.
+
+---
+
+### **US09 – Cancelar ou Reagendar Competição**
+**Como** administrador,  
+**quero** cancelar ou reagendar competições em caso de imprevistos,  
+**para** reorganizar o cronograma de provas sem comprometer outras modalidades.
+
+---
+
+### **US10 – Emitir Relatórios Estatísticos**
+**Como** membro do comitê técnico,  
+**quero** emitir relatórios estatísticos com o número de competições, atletas e medalhas,  
+**para** avaliar o desempenho geral e auxiliar em futuras edições dos jogos.
 
 ---
 
