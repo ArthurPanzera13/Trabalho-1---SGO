@@ -137,3 +137,15 @@ Os diagramas produzidos têm como finalidade:
 - O documento é parte do **Trabalho 1 – Projeto de Software**, sob orientação do professor **João Paulo Aramuni**.
 
 ---
+
+## 🖼️ Diagramas UML
+
+### **📘 Diagrama de Caso de Uso**
+<img src="imagens/diagrama-de-caso-de-uso.png" width="700px">
+
+---
+
+### **📗 Diagrama de Classes**
+<img src="imagens/diagrama-de-classes.png" width="700px">
+
+---
