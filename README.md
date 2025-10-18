@@ -141,11 +141,11 @@ Os diagramas produzidos têm como finalidade:
 ## 🖼️ Diagramas UML
 
 ### **📘 Diagrama de Caso de Uso**
-<img src="imagens/diagrama-de-caso-de-uso.png" width="700px">
+<img src="Imagens/diagrama-de-caso-de-uso.png" width="700px">
 
 ---
 
 ### **📗 Diagrama de Classes**
-<img src="imagens/diagrama-de-classes.png" width="700px">
+<img src="Imagens/diagrama-de-classes.png" width="700px">
 
 ---
