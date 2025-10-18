@@ -1,4 +1,4 @@
-"# 🏅 Sistema de Gestão das Olimpíadas (SGO)
+# 🏅 Sistema de Gestão das Olimpíadas (SGO)
 
 ## 🧭 Introdução
 
