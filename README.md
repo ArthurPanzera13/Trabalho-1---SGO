@@ -145,7 +145,15 @@ Os diagramas produzidos têm como finalidade:
 
 ---
 
-### **📗 Diagrama de Classes**
+### **📗 Diagrama de Classes e de Pacotes**
 <img src="Imagens/diagrama-de-classes.png" width="700px">
 
 ---
+
+### **📗 Diagrama de Componentes**
+<img src="Imagens/diagrama-de-componentes.png" width="700px">
+
+---
+
+### **📗 Diagrama de Implantação**
+<img src="Imagens/diagrama-de-implementação.png" width="700px">
