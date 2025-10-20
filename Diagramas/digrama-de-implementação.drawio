@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Página-1" id="-D1-K_MNZ0OHBUgUoZ-x">
+    <mxGraphModel dx="1536" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ampUzlbPRWjA3LO0I60U-2" value="br.edu.sgo.controller" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="374" y="290" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ampUzlbPRWjA3LO0I60U-5" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;AtletaController\nCompeticaoController\nLocalController\nPaisController\nResultadoController\nModalidadeController&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;#333333ff&amp;quot;,&amp;quot;e&amp;quot;:109}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;AtletaController&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;CompeticaoController&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;LocalController&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;PaisController&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;ResultadoController&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;ModalidadeController&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ampUzlbPRWjA3LO0I60U-2">
+          <mxGeometry y="26" width="160" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="ampUzlbPRWjA3LO0I60U-9" value="br.edu.sgo.service" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="374" y="445" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ampUzlbPRWjA3LO0I60U-10" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;AtletaService\nCompeticaoService\nLocalService\nPaisService\nResultadoService\nModalidadeService&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;#333333ff&amp;quot;,&amp;quot;e&amp;quot;:91}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AtletaService&lt;br&gt;CompeticaoService&lt;br&gt;LocalService&lt;br&gt;PaisService&lt;br&gt;ResultadoService&lt;br&gt;ModalidadeService&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ampUzlbPRWjA3LO0I60U-9">
+          <mxGeometry y="26" width="160" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="ampUzlbPRWjA3LO0I60U-11" value="br.edu.sgo.model" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="374" y="600" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ampUzlbPRWjA3LO0I60U-12" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Atleta\nCompeticao\nLocal\nPais\nResultado\nModalidade&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;#333333ff&amp;quot;,&amp;quot;e&amp;quot;:49}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;font&gt;Atleta&lt;br&gt;Competicao&lt;br&gt;Local&lt;br&gt;Pais&lt;br&gt;Resultado&lt;br&gt;Modalidade&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ampUzlbPRWjA3LO0I60U-11">
+          <mxGeometry y="26" width="160" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cS71BZNKbmY36XJ4iT-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="414" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cS71BZNKbmY36XJ4iT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e_cS71BZNKbmY36XJ4iT-4" target="e_cS71BZNKbmY36XJ4iT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cS71BZNKbmY36XJ4iT-11" value="JDBC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e_cS71BZNKbmY36XJ4iT-10">
+          <mxGeometry x="0.0074" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_cS71BZNKbmY36XJ4iT-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="336" y="130" width="236" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cS71BZNKbmY36XJ4iT-3" value="Web Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="374" y="230" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cS71BZNKbmY36XJ4iT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_cS71BZNKbmY36XJ4iT-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_cS71BZNKbmY36XJ4iT-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fillColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="184" y="390" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cS71BZNKbmY36XJ4iT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.99;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e_cS71BZNKbmY36XJ4iT-4" target="e_cS71BZNKbmY36XJ4iT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cS71BZNKbmY36XJ4iT-7" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e_cS71BZNKbmY36XJ4iT-6">
+          <mxGeometry x="0.108" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_cS71BZNKbmY36XJ4iT-8" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.desktop;" vertex="1" parent="1">
+          <mxGeometry x="74" y="420" width="100" height="77.32" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cS71BZNKbmY36XJ4iT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e_cS71BZNKbmY36XJ4iT-9" target="e_cS71BZNKbmY36XJ4iT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cS71BZNKbmY36XJ4iT-9" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="684" y="409.5" width="70" height="71" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
